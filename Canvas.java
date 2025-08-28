@@ -167,7 +167,7 @@ public class Canvas
     }
 
     /**
-     * Redraw ell shapes currently on the Canvas.
+      Redraw ell shapes currently on the Canvas.
      */
     private void redraw()
     {

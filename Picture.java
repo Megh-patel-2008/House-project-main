@@ -80,7 +80,7 @@ public class Picture
     public void setColor()
     {
         wall.changeColor("red");
-        window.changeColor("black");
+        window.changeColor("White");
         roof.changeColor("green");
         sun.changeColor("yellow");
     }
