@@ -84,6 +84,6 @@ public class Picture
     
     public void setSunset()
     {
-        sun.slowMoveVertical(100);
+        sun.slowMoveVertical(200);
     }
 }
