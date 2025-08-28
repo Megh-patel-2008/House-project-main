@@ -203,9 +203,4 @@ public class Person
             canvas.erase(this);
         }
     }
-    
-    public void setSunset()
-    {
-        slowMoveVertical(-50);
-    }
 }
